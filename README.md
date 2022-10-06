@@ -5,7 +5,7 @@
 
 
 ### However, because this picture belongs to a 15th century painting, we clearly see the deformation and cracks within the picture.
-### Find a way to digitally improve the quality of this picture with a Python code (30 points). (must be done without a python library)
+### Find a way to digitally improve the quality of this picture. (without a python library)
 
 In this application, after importing the necessary libraries, a function is created to filter the image. For this, a kernel is specified. After the dimensions of the image and offset are defined, the specified kernel is applied to the image by navigating with the for loops. The image is filtered by navigating the pixels.
 
